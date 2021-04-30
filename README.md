@@ -31,6 +31,17 @@ Technology: React, React router, MongoDB, Node.js, Firebase Authentication, ImgB
 [<img src="https://i.ibb.co/J2dkXnd/Home.jpg" />]
 
 ## Tech-Gadgets 
+E-commercer based web-application 
+
+ [Live Site](https://tech-gadgets-46624.web.app/), [Client Repo](https://github.com/Faisal-Ahmed-Tonoy/tech-gadgets-client), [Server Repo](https://github.com/Faisal-Ahmed-Tonoy/tech-gadgets-server)
+•	This application is created by using MERN stack.
+•	Firebase authentication is used along with private route.
+•	Users can add and delete products from the application as well as from the database.
+•	Application will provide the user the date of order being placed.
+•	Separate order list for separate login users along with in which date order placed.
+Technology: React, React router, MongoDB, Node.js, Firebase Authentication, ImgBB
+
+[<img src="https://i.ibb.co/QvWhFch/1.jpg" />]
 
 
 <!---
