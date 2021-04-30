@@ -16,10 +16,10 @@
 
 
 ## ImageBay
+
 -Photography service-based web application (Full-stack)
--Website:https://image-bay.web.app/ 
--Front-End:https://github.com/Faisal-Ahmed-Tonoy/image-bay-client 
--Backend:https://github.com/Faisal-Ahmed-Tonoy/image-bay-server
+
+ [Live Site](https://image-bay.web.app//), [Client Repo](https://github.com/Faisal-Ahmed-Tonoy/image-bay-client ), [Server Repo](https://github.com/Faisal-Ahmed-Tonoy/image-bay-server)
 
 •	Admin can observe the all-user’s services order list.
 •	Users can provide feedback dynamically.
