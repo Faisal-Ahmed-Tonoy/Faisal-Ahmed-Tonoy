@@ -8,6 +8,9 @@
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- My email faisalahmedtonoy@gmail.com
+- My LinkedIn Profile - https://www.linkedin.com/in/faisal-ahmed-b48ba5210/
+- 
 
 <!---
 Faisal-Ahmed-Tonoy/Faisal-Ahmed-Tonoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
