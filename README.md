@@ -6,11 +6,19 @@
 - Hosting: Firebase, GitHub, Netlify, Heroku, ImgBB 
 - Tools: Visual Studio Code, Chrome DevTools 
 
+ ## :trophy: Languages and Tools: :robot:
+
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"> 
+
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 - My Resume- https://drive.google.com/file/u/1/d/1ReBoiX7pLV4g2lFNYdBCeAiN5kyGM1it/view?usp=sharing
-- My Email (faisalahmedtonoy@gmail.com) 
+- My Email () 
+- <a href="https://faisalahmedtonoy@gmail.com">
+  <img align="left" alt="Brijesh Dhanani | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://faisal-ahmed-tonoy.github.io/my-portfolio/)
@@ -23,9 +31,6 @@
  
  
 
- ## :trophy: Languages and Tools: :robot:
-
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"> 
 
 # Projects-
 
