@@ -24,7 +24,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBZrbkXgmnZgGPsLtBKGdVJrNXtkWKCntTRvLJPkhlPkBDXRrcnTLrbJqSjvlxhCxRjWM)
 
 
- ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisal-ahmed-tonoy&show_icons=true&theme=radical)
+ ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faisal-Ahmed-Tonoy&show_icons=true&theme=radical)
  
  
  
