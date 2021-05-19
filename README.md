@@ -10,10 +10,11 @@
 - 📫 How to reach me ...
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://faisal-ahmed-tonoy.github.io/my-portfolio/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Github&logoColor=white)](faisalahmedtonoy@gmail.com)
+ 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed-b48ba5210/)
  
 - My Resume :https://drive.google.com/file/u/1/d/1ReBoiX7pLV4g2lFNYdBCeAiN5kyGM1it/view?usp=sharing
+- My Mail Address :faisalahmedtonoy@gmail.com
 - 
 # Projects-
 
