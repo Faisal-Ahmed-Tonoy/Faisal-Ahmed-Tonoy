@@ -26,7 +26,7 @@
 # Github Stats-
  ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faisal-Ahmed-Tonoy&show_icons=true&theme=radical)
  
-# Langs Used-
+# Language Used-
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-ahmed-tonoy&layout=compact)](https://github.com/faisal-ahmed-tonoy/github-readme-stats)
  
