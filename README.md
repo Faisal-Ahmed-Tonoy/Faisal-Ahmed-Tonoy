@@ -20,9 +20,8 @@
 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://faisal-ahmed-tonoy.github.io/my-portfolio/)
- 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed-b48ba5210/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed-b48ba5210/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBZrbkXgmnZgGPsLtBKGdVJrNXtkWKCntTRvLJPkhlPkBDXRrcnTLrbJqSjvlxhCxRjWM)
 
 
  
