@@ -15,10 +15,8 @@
 - 📫 How to reach me ...
 
 - My Resume- https://drive.google.com/file/u/1/d/1ReBoiX7pLV4g2lFNYdBCeAiN5kyGM1it/view?usp=sharing
-- My Email () 
-- <a href="https://faisalahmedtonoy@gmail.com">
-  <img align="left" alt="Brijesh Dhanani | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+- My Email - https://faisalahmedtonoy@gmail.com
+ 
 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://faisal-ahmed-tonoy.github.io/my-portfolio/)
