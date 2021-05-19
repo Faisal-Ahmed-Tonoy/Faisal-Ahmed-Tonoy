@@ -15,7 +15,7 @@
 - 📫 How to reach me ...
 
 - My Resume- https://drive.google.com/file/u/1/d/1ReBoiX7pLV4g2lFNYdBCeAiN5kyGM1it/view?usp=sharing
-- My Email - https://faisalahmedtonoy@gmail.com
+ 
  
 
 
