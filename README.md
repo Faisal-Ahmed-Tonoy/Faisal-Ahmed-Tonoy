@@ -9,12 +9,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+- My Resume- https://drive.google.com/file/u/1/d/1ReBoiX7pLV4g2lFNYdBCeAiN5kyGM1it/view?usp=sharing
+- My Email (faisalahmedtonoy@gmail.com) 
+
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://faisal-ahmed-tonoy.github.io/my-portfolio/)
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed-b48ba5210/)
-[<img alt="Download Resume" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://drive.google.com/file/u/1/d/1ReBoiX7pLV4g2lFNYdBCeAiN5kyGM1it/view?usp=sharing) 
-[<img alt="Email" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](faisalahmedtonoy@gmail.com) 
+
+
  
  
  
