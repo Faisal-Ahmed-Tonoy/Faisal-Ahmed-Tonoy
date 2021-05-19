@@ -23,8 +23,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed-b48ba5210/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBZrbkXgmnZgGPsLtBKGdVJrNXtkWKCntTRvLJPkhlPkBDXRrcnTLrbJqSjvlxhCxRjWM)
 
-
+# Github Stats-
  ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faisal-Ahmed-Tonoy&show_icons=true&theme=radical)
+ 
+# Langs Used-
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-ahmed-tonoy&layout=compact)](https://github.com/faisal-ahmed-tonoy/github-readme-stats)
  
